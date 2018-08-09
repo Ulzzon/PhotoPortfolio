@@ -1,0 +1,22 @@
+{
+  "posts":[
+    {
+      "title": "Post 1",
+      "description": "My first blog post",
+      "image": "",
+      "date_created": "Today"
+    },
+    {
+      "title": "Post 2",
+      "description": "My Second blog post",
+      "image": "",
+      "date_created": "Now?"
+    },
+    {
+      "title": "Post 3",
+      "description": "My Third blog post",
+      "image": "",
+      "date_created": "Yesterday"
+    }
+  ]
+}
